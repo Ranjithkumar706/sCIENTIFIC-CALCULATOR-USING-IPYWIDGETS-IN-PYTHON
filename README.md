@@ -1,0 +1,1 @@
+This project implements a fully functional scientific calculator using Python's ipywidgets library. The calculator allows users to perform various mathematical operations, including basic arithmetic, trigonometric functions, logarithms, and more, all within a Jupyter Notebook interface.
